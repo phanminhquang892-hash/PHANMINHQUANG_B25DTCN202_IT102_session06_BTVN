@@ -38,8 +38,8 @@ int main (){
                     printf("Thuong = %.2f\n", a / b);
                 }else{
                     printf("Khong the chia cho 0!\n");
-                break;
-            	}
+                
+            	} break;
         	}
 			case 5:{
                 printf("bye!\n");
@@ -52,3 +52,4 @@ int main (){
 	
 	return 0;
 }
+
